@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Mochiy Pop P One', sans-serif;
+  color:black;
+  background: linear-gradient(white 0%, gold 50%, orange 100%);
+  
+}
+.emoji
+{
+  font-size:48px;
+}
+#button{
+  margin-bottom: 25px;
+}
+.heading{
+  font-size: 25px;
+}
